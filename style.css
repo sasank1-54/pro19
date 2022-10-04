@@ -1,0 +1,30 @@
+
+th{
+	background-color: red;
+	padding: 15px;
+
+}
+td {
+	padding: 15px;
+	
+  }
+  h1 ,h2{
+ font-family: 'Times New Roman', Times, serif;
+
+  }
+  
+  table{
+	background-color: white;
+  }
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
